@@ -1,4 +1,14 @@
-# Awesome-Retail-Assortment-Planning
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Retail Assortment Planning Banner" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Retail-Assortment-Planning/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Retail-Assortment-Planning?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Retail-Assortment-Planning/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Retail-Assortment-Planning?style=flat-square&logo=github&color=blue" alt="GitHub Forks"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Retail-Assortment-Planning/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Retail-Assortment-Planning?style=flat-square&color=green" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
 # 🛍️ Top Retail Assortment Planning Platforms & Open-Source Software
 
@@ -174,15 +184,15 @@ A practical open-source assortment-planning stack can look like:
 
 * [🧠 Why Open-Source Assortment Planning Matters](#-why-open-source-assortment-planning-matters)
 
+* [🔍 SEO Key Topics & Retail Planning Taxonomy](#-seo-key-topics--retail-planning-taxonomy)
+
 * [🤝 Contributing](#-contributing)
+
+* [⭐ Star History](#-star-history)
 
 * [⚠️ Disclaimer](#️-disclaimer)
 
-
-
 ---
-
-
 
 # ☁️ SaaS/Hosted Platforms
 
@@ -296,28 +306,19 @@ There is no universally dominant open-source equivalent of **o9 / RELEX / Blue Y
 
 
 
-| Project                                                   | Primary Role             | Relevance                                                     |
-
-| --------------------------------------------------------- | ------------------------ | ------------------------------------------------------------- |
-
-| [ERPNext](https://github.com/frappe/erpnext)              | Open-source ERP          | Products, sales, purchasing, inventory and financial planning |
-
-| [Odoo Community](https://github.com/odoo/odoo)            | ERP / retail             | Products, inventory, sales and purchasing                     |
-
-| [OpenBoxes](https://github.com/openboxes/openboxes)       | Inventory / supply chain | Inventory, warehouses and stock movements                     |
-
-| [Apache OFBiz](https://github.com/apache/ofbiz-framework) | ERP / commerce           | Product, order, inventory and supply-chain workflows          |
-
-| [Openbravo](https://www.openbravo.com/)                   | Retail ERP               | Retail and commerce infrastructure                            |
-
-| [Dolibarr](https://github.com/Dolibarr/dolibarr)          | ERP / CRM                | Products, inventory, orders and purchasing                    |
-
-| [Saleor](https://github.com/saleor/saleor)                | Commerce platform        | Products, catalogs, orders and channels                       |
-
-| [Medusa](https://github.com/medusajs/medusa)              | Commerce infrastructure  | Product catalog and commerce APIs                             |
-
-| [OpenBoxes](https://github.com/openboxes/openboxes)       | Supply-chain management  | Warehouse and inventory operations                            |
-
+| Project | Primary Role | Relevance |
+| :--- | :--- | :--- |
+| [Odoo Community](https://github.com/odoo/odoo) [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | ERP / Retail Suite | Product catalogs, inventory control, POS, multi-warehouse & replenishment workflows |
+| [ERPNext](https://github.com/frappe/erpnext) [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | Open-Source ERP | Merchandise master data, purchasing, sales, inventory valuation & financial planning |
+| [Medusa](https://github.com/medusajs/medusa) [![GitHub stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers) | Digital Commerce Infrastructure | Modular product catalog APIs, multi-region sales channels, inventory synchronization |
+| [Bagisto](https://github.com/bagisto/bagisto) [![GitHub stars](https://img.shields.io/github/stars/bagisto/bagisto?style=social&color=white)](https://github.com/bagisto/bagisto/stargazers) | eCommerce & Retail Platform | Multi-inventory sourcing, product catalog management, localized pricing & point of sale |
+| [Saleor](https://github.com/saleor/saleor) [![GitHub stars](https://img.shields.io/github/stars/saleor/saleor?style=social&color=white)](https://github.com/saleor/saleor/stargazers) | Headless Commerce Platform | Omnichannel product catalogs, dynamic pricing, multi-warehouse inventory allocation |
+| [Spree Commerce](https://github.com/spree/spree) [![GitHub stars](https://img.shields.io/github/stars/spree/spree?style=social&color=white)](https://github.com/spree/spree/stargazers) | Commerce & Order Framework | Configurable merchandising catalogs, order lifecycle, stock location routing |
+| [Vendure](https://github.com/vendure-ecommerce/vendure) [![GitHub stars](https://img.shields.io/github/stars/vendure-ecommerce/vendure?style=social&color=white)](https://github.com/vendure-ecommerce/vendure/stargazers) | Headless Retail Infrastructure | TypeScript commerce core, product variant hierarchies, multi-channel stock levels |
+| [Dolibarr](https://github.com/Dolibarr/dolibarr) [![GitHub stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white)](https://github.com/Dolibarr/dolibarr/stargazers) | ERP / CRM / Retail Suite | Product categorizations, stock movements, order fulfillment & procurement workflows |
+| [Solidus](https://github.com/solidusio/solidus) [![GitHub stars](https://img.shields.io/github/stars/solidusio/solidus?style=social&color=white)](https://github.com/solidusio/solidus/stargazers) | Custom Commerce Engine | Flexible inventory tracking, pricing calculation engines & promotion management |
+| [Apache OFBiz](https://github.com/apache/ofbiz-framework) [![GitHub stars](https://img.shields.io/github/stars/apache/ofbiz-framework?style=social&color=white)](https://github.com/apache/ofbiz-framework/stargazers) | Enterprise ERP / Commerce | Enterprise product information, order fulfillment & advanced supply-chain planning |
+| [OpenBoxes](https://github.com/openboxes/openboxes) [![GitHub stars](https://img.shields.io/github/stars/openboxes/openboxes?style=social&color=white)](https://github.com/openboxes/openboxes/stargazers) | Inventory & SCM Operations | Supply-chain inventory tracking, stock movements, bin locations & warehouse replenishment |
 
 
 OpenBoxes is a particularly useful open-source supply-chain building block because it provides inventory and stock-movement management and is explicitly designed as a general-purpose warehouse/supply-chain system.
@@ -376,38 +377,27 @@ Assortment Optimization
 
 
 
-| Project                                                              | Description                              |
-
-| -------------------------------------------------------------------- | ---------------------------------------- |
-
-| [Nixtla / StatsForecast](https://github.com/Nixtla/statsforecast)    | High-performance statistical forecasting |
-
-| [Nixtla / MLForecast](https://github.com/Nixtla/mlforecast)          | Machine-learning forecasting             |
-
-| [Nixtla / NeuralForecast](https://github.com/Nixtla/neuralforecast)  | Neural forecasting                       |
-
-| [Darts](https://github.com/unit8co/darts)                            | Time-series forecasting framework        |
-
-| [GluonTS](https://github.com/awslabs/gluonts)                        | Probabilistic forecasting                |
-
-| [PyTorch Forecasting](https://github.com/sktime/pytorch-forecasting) | Deep-learning forecasting                |
-
-| [sktime](https://github.com/sktime/sktime)                           | Time-series ML                           |
-
-| [Statsmodels](https://github.com/statsmodels/statsmodels)            | Statistical forecasting                  |
-
-| [Prophet](https://github.com/facebook/prophet)                       | Business time-series forecasting         |
-
-| [Kats](https://github.com/facebookresearch/Kats)                     | Time-series toolkit                      |
-
-| [sktime](https://github.com/sktime/sktime)                           | Forecasting and time-series ML           |
-
-| [AutoGluon-TimeSeries](https://github.com/autogluon/autogluon)       | Automated forecasting                    |
-
-| [LightGBM](https://github.com/microsoft/LightGBM)                    | Gradient boosting                        |
-
-| [XGBoost](https://github.com/dmlc/xgboost)                           | Gradient boosting                        |
-
+| Project | Description |
+| :--- | :--- |
+| [XGBoost](https://github.com/dmlc/xgboost) [![GitHub stars](https://img.shields.io/github/stars/dmlc/xgboost?style=social&color=white)](https://github.com/dmlc/xgboost/stargazers) | Industry-standard gradient boosting for tabular demand forecasting with promotional & calendar features |
+| [Prophet](https://github.com/facebook/prophet) [![GitHub stars](https://img.shields.io/github/stars/facebook/prophet?style=social&color=white)](https://github.com/facebook/prophet/stargazers) | Robust Bayesian decomposable time-series forecasting handling multi-period seasonality, holidays & changepoints |
+| [LightGBM](https://github.com/microsoft/LightGBM) [![GitHub stars](https://img.shields.io/github/stars/microsoft/LightGBM?style=social&color=white)](https://github.com/microsoft/LightGBM/stargazers) | High-speed, memory-efficient gradient boosting for large-scale SKU-level demand prediction |
+| [Time-Series-Library (TSlib)](https://github.com/thuml/Time-Series-Library) [![GitHub stars](https://img.shields.io/github/stars/thuml/Time-Series-Library?style=social&color=white)](https://github.com/thuml/Time-Series-Library/stargazers) | Comprehensive deep learning benchmark library including PatchTST, TimesNet, DLinear & Informer |
+| [Statsmodels](https://github.com/statsmodels/statsmodels) [![GitHub stars](https://img.shields.io/github/stars/statsmodels/statsmodels?style=social&color=white)](https://github.com/statsmodels/statsmodels/stargazers) | Rigorous statistical time-series modeling (ARIMA, SARIMAX, Exponential Smoothing, VAR) for econometric analysis |
+| [AutoGluon-TimeSeries](https://github.com/autogluon/autogluon) [![GitHub stars](https://img.shields.io/github/stars/autogluon/autogluon?style=social&color=white)](https://github.com/autogluon/autogluon/stargazers) | Automated probabilistic time-series forecasting ensembling statistical, machine learning & neural models |
+| [sktime](https://github.com/sktime/sktime) [![GitHub stars](https://img.shields.io/github/stars/sktime/sktime?style=social&color=white)](https://github.com/sktime/sktime/stargazers) | Unified scikit-learn compatible framework for time-series forecasting, transformation and model evaluation |
+| [Darts](https://github.com/unit8co/darts) [![GitHub stars](https://img.shields.io/github/stars/unit8co/darts?style=social&color=white)](https://github.com/unit8co/darts/stargazers) | User-friendly time-series forecasting library unifying ARIMA, Prophet, XGBoost, TiDE, TFT and N-BEATS |
+| [CatBoost](https://github.com/catboost/catboost) [![GitHub stars](https://img.shields.io/github/stars/catboost/catboost?style=social&color=white)](https://github.com/catboost/catboost/stargazers) | High-performance gradient boosting with superior native categorical feature handling for retail attributes |
+| [Kats](https://github.com/facebookresearch/Kats) [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/Kats?style=social&color=white)](https://github.com/facebookresearch/Kats/stargazers) | Meta toolkit for time-series analysis, automated feature extraction, trend detection and outlier removal |
+| [Chronos Forecasting](https://github.com/amazon-science/chronos-forecasting) [![GitHub stars](https://img.shields.io/github/stars/amazon-science/chronos-forecasting?style=social&color=white)](https://github.com/amazon-science/chronos-forecasting/stargazers) | Pretrained time-series foundation models based on language model architectures by Amazon Research |
+| [GluonTS](https://github.com/awslabs/gluonts) [![GitHub stars](https://img.shields.io/github/stars/awslabs/gluonts?style=social&color=white)](https://github.com/awslabs/gluonts/stargazers) | Deep learning probabilistic time-series framework developed by AWS for probabilistic replenishment demand |
+| [PyTorch Forecasting](https://github.com/jdb78/pytorch-forecasting) [![GitHub stars](https://img.shields.io/github/stars/jdb78/pytorch-forecasting?style=social&color=white)](https://github.com/jdb78/pytorch-forecasting/stargazers) | Deep learning time-series architectures including Temporal Fusion Transformers (TFT) with interpretability |
+| [StatsForecast](https://github.com/Nixtla/statsforecast) [![GitHub stars](https://img.shields.io/github/stars/Nixtla/statsforecast?style=social&color=white)](https://github.com/Nixtla/statsforecast/stargazers) | Lightning-fast statistical forecasting (AutoARIMA, ETS, CES, Theta) optimized in C/Numba for massive SKU catalogs |
+| [Merlion](https://github.com/salesforce/Merlion) [![GitHub stars](https://img.shields.io/github/stars/salesforce/Merlion?style=social&color=white)](https://github.com/salesforce/Merlion/stargazers) | Salesforce time-series library offering automated model selection, ensembles, anomaly detection & evaluation |
+| [NeuralForecast](https://github.com/Nixtla/neuralforecast) [![GitHub stars](https://img.shields.io/github/stars/Nixtla/neuralforecast?style=social&color=white)](https://github.com/Nixtla/neuralforecast/stargazers) | Scalable neural forecasting models (NHITS, NBEATS, TFT, TimesNet) designed for large enterprise time-series |
+| [Orbit](https://github.com/uber/orbit) [![GitHub stars](https://img.shields.io/github/stars/uber/orbit?style=social&color=white)](https://github.com/uber/orbit/stargazers) | Uber Bayesian time-series forecasting framework utilizing Stan/Pyro for marketing mix & demand estimation |
+| [Greykite](https://github.com/linkedin/greykite) [![GitHub stars](https://img.shields.io/github/stars/linkedin/greykite?style=social&color=white)](https://github.com/linkedin/greykite/stargazers) | LinkedIn flagship time-series forecasting library powering Silverkite with automated anomaly and trend modeling |
+| [MLForecast](https://github.com/Nixtla/mlforecast) [![GitHub stars](https://img.shields.io/github/stars/Nixtla/mlforecast?style=social&color=white)](https://github.com/Nixtla/mlforecast/stargazers) | Scalable feature engineering and recursive forecasting framework for LightGBM, XGBoost, CatBoost & scikit-learn |
 
 
 A practical assortment planner can combine:
@@ -450,30 +440,21 @@ This is the most specialized part of the ecosystem.
 
 
 
-| Project                                                                          | Approach                       | Focus                               |
-
-| -------------------------------------------------------------------------------- | ------------------------------ | ----------------------------------- |
-
-| [assortment_optimization](https://github.com/hugopalmer/assortment_optimization) | Choice modeling + optimization | Large-scale assortment optimization |
-
-| [IP_Assortment_CODE](https://github.com/YLW2018/IP_Assortment_CODE)              | Integer Programming            | Quick-commerce assortment           |
-
-| [Google OR-Tools](https://github.com/google/or-tools)                            | Mathematical optimization      | Custom assortment constraints       |
-
-| [Pyomo](https://github.com/Pyomo/pyomo)                                          | Optimization modeling          | Custom assortment models            |
-
-| [python-mip](https://github.com/coin-or/python-mip)                              | MILP                           | Assortment optimization             |
-
-| [PuLP](https://github.com/coin-or/pulp)                                          | Linear programming             | Assortment constraints              |
-
-| [CVXPY](https://github.com/cvxpy/cvxpy)                                          | Convex optimization            | Optimization models                 |
-
-| [HiGHS](https://github.com/ERGO-Code/HiGHS)                                      | LP/MIP solver                  | Large optimization problems         |
-
-| [SCIP](https://github.com/scipopt/scip)                                          | MIP / constraint optimization  | Complex assortment models           |
-
-| [OptaPlanner](https://github.com/apache/incubator-kie-optaplanner)               | Constraint optimization        | Assortment / allocation constraints |
-
+| Project | Approach | Focus |
+| :--- | :--- | :--- |
+| [Google OR-Tools](https://github.com/google/or-tools) [![GitHub stars](https://img.shields.io/github/stars/google/or-tools?style=social&color=white)](https://github.com/google/or-tools/stargazers) | Operations Research / CP-SAT / MILP | Fast industrial solver for store capacity, shelf-space allocation and complex assortment rules |
+| [CVXPY](https://github.com/cvxpy/cvxpy) [![GitHub stars](https://img.shields.io/github/stars/cvxpy/cvxpy?style=social&color=white)](https://github.com/cvxpy/cvxpy/stargazers) | Convex & Mixed-Integer Optimization | Domain-specific modeling language for margin optimization and convex portfolio formulations |
+| [OptaPlanner](https://github.com/apache/incubator-kie-optaplanner) [![GitHub stars](https://img.shields.io/github/stars/apache/incubator-kie-optaplanner?style=social&color=white)](https://github.com/apache/incubator-kie-optaplanner/stargazers) | Constraint Satisfaction & Metaheuristics | AI constraint solver for retail scheduling, shelf allocation and score-driven assortment selection |
+| [Pyomo](https://github.com/Pyomo/pyomo) [![GitHub stars](https://img.shields.io/github/stars/Pyomo/pyomo?style=social&color=white)](https://github.com/Pyomo/pyomo/stargazers) | Algebraic Modeling Language (Python) | Formulation of complex non-linear choice models, supply constraints and assortment integer programs |
+| [PuLP](https://github.com/coin-or/pulp) [![GitHub stars](https://img.shields.io/github/stars/coin-or/pulp?style=social&color=white)](https://github.com/coin-or/pulp/stargazers) | Linear & Integer Programming (Python) | Intuitive modeling interface connecting to CBC, GLPK, HiGHS and commercial solvers for assortment MILP |
+| [JuMP](https://github.com/jump-dev/JuMP.jl) [![GitHub stars](https://img.shields.io/github/stars/jump-dev/JuMP.jl?style=social&color=white)](https://github.com/jump-dev/JuMP.jl/stargazers) | High-Performance Mathematical Programming | Blazing-fast mathematical modeling in Julia for massive retail portfolio and assortment optimization |
+| [HiGHS](https://github.com/ERGO-Code/HiGHS) [![GitHub stars](https://img.shields.io/github/stars/ERGO-Code/HiGHS?style=social&color=white)](https://github.com/ERGO-Code/HiGHS/stargazers) | Modern High-Performance LP/MIP Solver | Leading open-source linear/integer solver powering SciPy for large-scale category selection |
+| [Timefold Solver](https://github.com/TimefoldAI/timefold-solver) [![GitHub stars](https://img.shields.io/github/stars/TimefoldAI/timefold-solver?style=social&color=white)](https://github.com/TimefoldAI/timefold-solver/stargazers) | AI Constraint Optimization Platform | Active modern fork of OptaPlanner solving multi-constraint retail assortment & planogram problems |
+| [MiniZinc](https://github.com/MiniZinc/libminizinc) [![GitHub stars](https://img.shields.io/github/stars/MiniZinc/libminizinc?style=social&color=white)](https://github.com/MiniZinc/libminizinc/stargazers) | Constraint Modeling Language | Expressive constraint satisfaction modeling for complex discrete category rules and space allocation |
+| [SCIP](https://github.com/scipopt/scip) [![GitHub stars](https://img.shields.io/github/stars/scipopt/scip?style=social&color=white)](https://github.com/scipopt/scip/stargazers) | MIP & Non-Linear Constraint Solver | State-of-the-art non-commercial solver for non-linear assortment choice models and MINLP formulations |
+| [python-mip](https://github.com/coin-or/python-mip) [![GitHub stars](https://img.shields.io/github/stars/coin-or/python-mip?style=social&color=white)](https://github.com/coin-or/python-mip/stargazers) | High-Level Mixed-Integer Modeling | Fast C-interfaced Python package for building and executing fast integer assortment models |
+| [assortment_optimization](https://github.com/hugopalmer/assortment_optimization) [![GitHub stars](https://img.shields.io/github/stars/hugopalmer/assortment_optimization?style=social&color=white)](https://github.com/hugopalmer/assortment_optimization/stargazers) | Choice Modeling + Assortment Optimization | End-to-end Python implementation: choice-model estimation → generalization → optimal assortment selection |
+| [IP_Assortment_CODE](https://github.com/YLW2018/IP_Assortment_CODE) [![GitHub stars](https://img.shields.io/github/stars/YLW2018/IP_Assortment_CODE?style=social&color=white)](https://github.com/YLW2018/IP_Assortment_CODE/stargazers) | Integer Programming Formulation | Mathematical programming formulation specifically targeting quick-commerce assortment and dark store limits |
 
 
 The `assortment_optimization` project is especially relevant because it explicitly implements the sequence **choice-model learning → generalization → assortment optimization**, rather than merely providing generic inventory optimization.
@@ -542,24 +523,20 @@ Common open-source building blocks include:
 
 
 
-| Project / Library                                                                | Use                                        |
-
-| -------------------------------------------------------------------------------- | ------------------------------------------ |
-
-| [statsmodels](https://github.com/statsmodels/statsmodels)                        | Statistical choice models                  |
-
-| [scikit-learn](https://github.com/scikit-learn/scikit-learn)                     | Logistic / classification models           |
-
-| [PyMC](https://github.com/pymc-devs/pymc)                                        | Bayesian choice models                     |
-
-| [PyLogit](https://github.com/timothyb0912/pylogit)                               | Discrete choice modeling                   |
-
-| [Biogeme](https://github.com/michelbierlaire/biogeme)                            | Discrete-choice estimation                 |
-
-| [Larch](https://github.com/drdecisions/larch)                                    | Choice modeling                            |
-
-| [assortment_optimization](https://github.com/hugopalmer/assortment_optimization) | Choice-model-based assortment optimization |
-
+| Project / Library | Use |
+| :--- | :--- |
+| [scikit-learn](https://github.com/scikit-learn/scikit-learn) [![GitHub stars](https://img.shields.io/github/stars/scikit-learn/scikit-learn?style=social&color=white)](https://github.com/scikit-learn/scikit-learn/stargazers) | Multinomial logistic regression, classification baselines, customer segmentation and propensity modeling |
+| [Statsmodels](https://github.com/statsmodels/statsmodels) [![GitHub stars](https://img.shields.io/github/stars/statsmodels/statsmodels?style=social&color=white)](https://github.com/statsmodels/statsmodels/stargazers) | Statistical Multinomial Logit (MNL), conditional logit, odds-ratio diagnostics and hypothesis testing |
+| [PyMC](https://github.com/pymc-devs/pymc) [![GitHub stars](https://img.shields.io/github/stars/pymc-devs/pymc?style=social&color=white)](https://github.com/pymc-devs/pymc/stargazers) | Bayesian choice modeling, Random-Coefficient Logit, latent-class models and demand uncertainty quantification |
+| [Pyro](https://github.com/pyro-ppl/pyro) [![GitHub stars](https://img.shields.io/github/stars/pyro-ppl/pyro?style=social&color=white)](https://github.com/pyro-ppl/pyro/stargazers) | Deep probabilistic programming (PyTorch-backed) for large-scale Bayesian discrete choice modeling |
+| [hubbs5/or-gym](https://github.com/hubbs5/or-gym) [![GitHub stars](https://img.shields.io/github/stars/hubbs5/or-gym?style=social&color=white)](https://github.com/hubbs5/or-gym/stargazers) | Reinforcement learning environments for dynamic inventory, supply-chain control and customer choice reactions |
+| [PyLogit](https://github.com/timothyb0912/pylogit) [![GitHub stars](https://img.shields.io/github/stars/timothyb0912/pylogit?style=social&color=white)](https://github.com/timothyb0912/pylogit/stargazers) | Dedicated Python package for Multinomial Logit, Nested Logit, Mixed Logit and panel choice data |
+| [CmdStanPy](https://github.com/stan-dev/cmdstanpy) [![GitHub stars](https://img.shields.io/github/stars/stan-dev/cmdstanpy?style=social&color=white)](https://github.com/stan-dev/cmdstanpy/stargazers) | Fast Python interface to Stan for state-of-the-art MCMC sampling of hierarchical discrete choice models |
+| [Biogeme](https://github.com/michelbierlaire/biogeme) [![GitHub stars](https://img.shields.io/github/stars/michelbierlaire/biogeme?style=social&color=white)](https://github.com/michelbierlaire/biogeme/stargazers) | Widely published discrete choice estimation engine supporting GEV, Nested Logit, Probit & latent models |
+| [Choice-Learn](https://github.com/artefactory/choice-learn) [![GitHub stars](https://img.shields.io/github/stars/artefactory/choice-learn?style=social&color=white)](https://github.com/artefactory/choice-learn/stargazers) | Modern Python library for industrial-scale discrete choice modeling using statistical & deep learning techniques |
+| [ChoiceModels](https://github.com/UDST/choicemodels) [![GitHub stars](https://img.shields.io/github/stars/UDST/choicemodels?style=social&color=white)](https://github.com/UDST/choicemodels/stargazers) | Urban Data Science toolkit for multinomial logit simulation, choice probabilities and sampling of alternatives |
+| [assortment_optimization](https://github.com/hugopalmer/assortment_optimization) [![GitHub stars](https://img.shields.io/github/stars/hugopalmer/assortment_optimization?style=social&color=white)](https://github.com/hugopalmer/assortment_optimization/stargazers) | Data-driven assortment optimization pipeline incorporating customer substitution and choice estimation |
+| [Larch](https://github.com/driftlesslabs/larch) [![GitHub stars](https://img.shields.io/github/stars/driftlesslabs/larch?style=social&color=white)](https://github.com/driftlesslabs/larch/stargazers) | High-speed Python/Numba tool for estimating and predicting logit-based discrete choice architectures |
 
 
 Typical models include:
@@ -594,32 +571,19 @@ Assortment decisions cannot be separated from inventory availability.
 
 
 
-| Project                                                                                                                     | Focus                                    |
-
-| --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-
-| [Google OR-Tools](https://github.com/google/or-tools)                                                                       | Inventory optimization models            |
-
-| [Pyomo](https://github.com/Pyomo/pyomo)                                                                                     | Inventory optimization                   |
-
-| [supplychainpy](https://github.com/KevinFasusi/supplychainpy)                                                               | Supply-chain analytics                   |
-
-| [Stockpyl](https://github.com/LarrySnyder/stockpyl)                                                                         | Inventory / supply-chain models          |
-
-| [SimPy](https://github.com/simpx/simpy)                                                                                     | Discrete-event inventory simulation      |
-
-| [OpenBoxes](https://github.com/openboxes/openboxes)                                                                         | Inventory management                     |
-
-| [ERPNext](https://github.com/frappe/erpnext)                                                                                | Inventory / purchasing                   |
-
-| [Odoo Community](https://github.com/odoo/odoo)                                                                              | Inventory / replenishment                |
-
-| [RetailOps](https://github.com/MarieGutiz/RetailOps)                                                                        | Retail inventory simulation              |
-
-| [Retail Forecasting & Inventory Optimization](https://github.com/Tufan2416/Retail-Sales-Forecasting-Inventory-Optimization) | Forecasting + EOQ + safety stock         |
-
-| [Forecast-Driven Inventory Control](https://github.com/PhongNguyen97/Forecast-Driven-Inventory-Control-Analytics)           | Forecast + inventory policy optimization |
-
+| Project | Focus |
+| :--- | :--- |
+| [Odoo Community](https://github.com/odoo/odoo) [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | Automated reordering rules, multi-warehouse stock routing, min/max safety stock and vendor lead times |
+| [ERPNext](https://github.com/frappe/erpnext) [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | Inventory valuation (FIFO/Moving Average), automated purchase replenishment, batch/serial tracking |
+| [Google OR-Tools](https://github.com/google/or-tools) [![GitHub stars](https://img.shields.io/github/stars/google/or-tools?style=social&color=white)](https://github.com/google/or-tools/stargazers) | Multi-echelon inventory allocation, vehicle routing, warehouse capacity and distribution optimization |
+| [Pyomo](https://github.com/Pyomo/pyomo) [![GitHub stars](https://img.shields.io/github/stars/Pyomo/pyomo?style=social&color=white)](https://github.com/Pyomo/pyomo/stargazers) | Mathematical modeling of multi-period stochastic inventory policies, safety stock & service-level constraints |
+| [OpenBoxes](https://github.com/openboxes/openboxes) [![GitHub stars](https://img.shields.io/github/stars/openboxes/openboxes?style=social&color=white)](https://github.com/openboxes/openboxes/stargazers) | Warehouse management, inventory tracking, stock movements, expiration control and multi-facility visibility |
+| [OR-Gym](https://github.com/hubbs5/or-gym) [![GitHub stars](https://img.shields.io/github/stars/hubbs5/or-gym?style=social&color=white)](https://github.com/hubbs5/or-gym/stargazers) | Gym environments for reinforcement learning applied to multi-echelon inventory and lost-sales problems |
+| [supplychainpy](https://github.com/KevinFasusi/supplychainpy) [![GitHub stars](https://img.shields.io/github/stars/KevinFasusi/supplychainpy?style=social&color=white)](https://github.com/KevinFasusi/supplychainpy/stargazers) | Python library for supply-chain analytics, EOQ, safety stock calculation, SKU ABC/XYZ classification |
+| [Stockpyl](https://github.com/LarrySnyder/stockpyl) [![GitHub stars](https://img.shields.io/github/stars/LarrySnyder/stockpyl?style=social&color=white)](https://github.com/LarrySnyder/stockpyl/stargazers) | Comprehensive inventory models: multi-echelon inventory theory, (s, S) policies, safety stock optimization |
+| [Forecast-Driven Inventory Control](https://github.com/PhongNguyen97/Forecast-Driven-Inventory-Control-Analytics) [![GitHub stars](https://img.shields.io/github/stars/PhongNguyen97/Forecast-Driven-Inventory-Control-Analytics?style=social&color=white)](https://github.com/PhongNguyen97/Forecast-Driven-Inventory-Control-Analytics/stargazers) | End-to-end framework integrating time-series demand forecasting with continuous-review inventory replenishment |
+| [RetailOps](https://github.com/MarieGutiz/RetailOps) [![GitHub stars](https://img.shields.io/github/stars/MarieGutiz/RetailOps?style=social&color=white)](https://github.com/MarieGutiz/RetailOps/stargazers) | Discrete-event retail inventory simulation modeling store stockouts, restocking frequencies and service levels |
+| [Retail Forecasting & Inventory](https://github.com/Tufan2416/Retail-Sales-Forecasting-Inventory-Optimization) [![GitHub stars](https://img.shields.io/github/stars/Tufan2416/Retail-Sales-Forecasting-Inventory-Optimization?style=social&color=white)](https://github.com/Tufan2416/Retail-Sales-Forecasting-Inventory-Optimization/stargazers) | Applied pipeline combining demand forecasting algorithms with Economic Order Quantity (EOQ) optimization |
 
 
 Open-source retail projects increasingly combine forecasting with operational inventory decisions such as EOQ, reorder points and safety stock.
@@ -690,26 +654,20 @@ Lead Times
 
 
 
-| Framework                                                          |  LP | MILP |  CP | Nonlinear | Primary Language           |
-
-| ------------------------------------------------------------------ | :-: | :--: | :-: | :-------: | -------------------------- |
-
-| [OR-Tools](https://github.com/google/or-tools)                     |  ✅  |   ✅  |  ✅  |     ⚠️    | C++ / Python / Java / .NET |
-
-| [Pyomo](https://github.com/Pyomo/pyomo)                            |  ✅  |   ✅  |  ✅  |     ✅     | Python                     |
-
-| [PuLP](https://github.com/coin-or/pulp)                            |  ✅  |   ✅  |  ❌  |     ❌     | Python                     |
-
-| [python-mip](https://github.com/coin-or/python-mip)                |  ✅  |   ✅  |  ❌  |     ❌     | Python                     |
-
-| [CVXPY](https://github.com/cvxpy/cvxpy)                            |  ✅  |  ⚠️  |  ❌  |     ✅     | Python                     |
-
-| [HiGHS](https://github.com/ERGO-Code/HiGHS)                        |  ✅  |   ✅  |  ❌  |     ⚠️    | C++                        |
-
-| [SCIP](https://github.com/scipopt/scip)                            |  ✅  |   ✅  |  ✅  |     ✅     | C / C++                    |
-
-| [OptaPlanner](https://github.com/apache/incubator-kie-optaplanner) |  ⚠️ |  ⚠️  |  ✅  |     ⚠️    | Java                       |
-
+| Framework | LP | MILP | CP | Nonlinear | Primary Language |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| [OR-Tools](https://github.com/google/or-tools) [![GitHub stars](https://img.shields.io/github/stars/google/or-tools?style=social&color=white)](https://github.com/google/or-tools/stargazers) | ✅ | ✅ | ✅ | ⚠️ | C++ / Python / Java / .NET |
+| [CVXPY](https://github.com/cvxpy/cvxpy) [![GitHub stars](https://img.shields.io/github/stars/cvxpy/cvxpy?style=social&color=white)](https://github.com/cvxpy/cvxpy/stargazers) | ✅ | ⚠️ | ❌ | ✅ | Python |
+| [OptaPlanner](https://github.com/apache/incubator-kie-optaplanner) [![GitHub stars](https://img.shields.io/github/stars/apache/incubator-kie-optaplanner?style=social&color=white)](https://github.com/apache/incubator-kie-optaplanner/stargazers) | ⚠️ | ⚠️ | ✅ | ⚠️ | Java |
+| [Pyomo](https://github.com/Pyomo/pyomo) [![GitHub stars](https://img.shields.io/github/stars/Pyomo/pyomo?style=social&color=white)](https://github.com/Pyomo/pyomo/stargazers) | ✅ | ✅ | ✅ | ✅ | Python |
+| [PuLP](https://github.com/coin-or/pulp) [![GitHub stars](https://img.shields.io/github/stars/coin-or/pulp?style=social&color=white)](https://github.com/coin-or/pulp/stargazers) | ✅ | ✅ | ❌ | ❌ | Python |
+| [JuMP](https://github.com/jump-dev/JuMP.jl) [![GitHub stars](https://img.shields.io/github/stars/jump-dev/JuMP.jl?style=social&color=white)](https://github.com/jump-dev/JuMP.jl/stargazers) | ✅ | ✅ | ✅ | ✅ | Julia |
+| [CasADi](https://github.com/casadi/casadi) [![GitHub stars](https://img.shields.io/github/stars/casadi/casadi?style=social&color=white)](https://github.com/casadi/casadi/stargazers) | ✅ | ❌ | ❌ | ✅ | C++ / Python / MATLAB |
+| [HiGHS](https://github.com/ERGO-Code/HiGHS) [![GitHub stars](https://img.shields.io/github/stars/ERGO-Code/HiGHS?style=social&color=white)](https://github.com/ERGO-Code/HiGHS/stargazers) | ✅ | ✅ | ❌ | ⚠️ | C++ |
+| [Timefold Solver](https://github.com/TimefoldAI/timefold-solver) [![GitHub stars](https://img.shields.io/github/stars/TimefoldAI/timefold-solver?style=social&color=white)](https://github.com/TimefoldAI/timefold-solver/stargazers) | ⚠️ | ⚠️ | ✅ | ⚠️ | Java / Kotlin / Python |
+| [Cbc](https://github.com/coin-or/Cbc) [![GitHub stars](https://img.shields.io/github/stars/coin-or/Cbc?style=social&color=white)](https://github.com/coin-or/Cbc/stargazers) | ✅ | ✅ | ❌ | ❌ | C++ |
+| [SCIP](https://github.com/scipopt/scip) [![GitHub stars](https://img.shields.io/github/stars/scipopt/scip?style=social&color=white)](https://github.com/scipopt/scip/stargazers) | ✅ | ✅ | ✅ | ✅ | C / C++ |
+| [python-mip](https://github.com/coin-or/python-mip) [![GitHub stars](https://img.shields.io/github/stars/coin-or/python-mip?style=social&color=white)](https://github.com/coin-or/python-mip/stargazers) | ✅ | ✅ | ❌ | ❌ | Python |
 
 
 ---
@@ -756,24 +714,18 @@ Useful open-source components:
 
 
 
-| Project                                                      | Role                       |
-
-| ------------------------------------------------------------ | -------------------------- |
-
-| [OR-Tools](https://github.com/google/or-tools)               | Pricing optimization       |
-
-| [Pyomo](https://github.com/Pyomo/pyomo)                      | Revenue optimization       |
-
-| [CVXPY](https://github.com/cvxpy/cvxpy)                      | Mathematical optimization  |
-
-| [scikit-learn](https://github.com/scikit-learn/scikit-learn) | Demand / price models      |
-
-| [XGBoost](https://github.com/dmlc/xgboost)                   | Price-demand prediction    |
-
-| [LightGBM](https://github.com/microsoft/LightGBM)            | Price-demand prediction    |
-
-| [PyMC](https://github.com/pymc-devs/pymc)                    | Bayesian elasticity models |
-
+| Project | Role |
+| :--- | :--- |
+| [scikit-learn](https://github.com/scikit-learn/scikit-learn) [![GitHub stars](https://img.shields.io/github/stars/scikit-learn/scikit-learn?style=social&color=white)](https://github.com/scikit-learn/scikit-learn/stargazers) | Baseline price elasticity estimation, customer demand modeling & feature selection |
+| [XGBoost](https://github.com/dmlc/xgboost) [![GitHub stars](https://img.shields.io/github/stars/dmlc/xgboost?style=social&color=white)](https://github.com/dmlc/xgboost/stargazers) | Price-demand response prediction, promotional lift modeling & markdown impact analysis |
+| [LightGBM](https://github.com/microsoft/LightGBM) [![GitHub stars](https://img.shields.io/github/stars/microsoft/LightGBM?style=social&color=white)](https://github.com/microsoft/LightGBM/stargazers) | Fast gradient boosting for SKU-level price sensitivity, willingness-to-pay and markdown models |
+| [OR-Tools](https://github.com/google/or-tools) [![GitHub stars](https://img.shields.io/github/stars/google/or-tools?style=social&color=white)](https://github.com/google/or-tools/stargazers) | Constraint-based dynamic pricing optimization, markdown timing schedules and revenue maximization |
+| [PyMC](https://github.com/pymc-devs/pymc) [![GitHub stars](https://img.shields.io/github/stars/pymc-devs/pymc?style=social&color=white)](https://github.com/pymc-devs/pymc/stargazers) | Bayesian hierarchical price elasticity models capturing store-level, category-level and seasonal variations |
+| [DoWhy](https://github.com/py-why/dowhy) [![GitHub stars](https://img.shields.io/github/stars/py-why/dowhy?style=social&color=white)](https://github.com/py-why/dowhy/stargazers) | Causal inference framework for validating real price elasticity vs confounded historical correlation |
+| [CVXPY](https://github.com/cvxpy/cvxpy) [![GitHub stars](https://img.shields.io/github/stars/cvxpy/cvxpy?style=social&color=white)](https://github.com/cvxpy/cvxpy/stargazers) | Mathematical optimization for quadratic and convex revenue management formulations |
+| [CausalML](https://github.com/uber/causalml) [![GitHub stars](https://img.shields.io/github/stars/uber/causalml?style=social&color=white)](https://github.com/uber/causalml/stargazers) | Uplift modeling and heterogeneous treatment effect estimation for retail promotions and discounts |
+| [EconML](https://github.com/py-why/EconML) [![GitHub stars](https://img.shields.io/github/stars/py-why/EconML?style=social&color=white)](https://github.com/py-why/EconML/stargazers) | Econometric machine learning (Double/Debiased ML) for estimating causal price elasticity & pricing policies |
+| [Pyomo](https://github.com/Pyomo/pyomo) [![GitHub stars](https://img.shields.io/github/stars/Pyomo/pyomo?style=social&color=white)](https://github.com/Pyomo/pyomo/stargazers) | Formulation of joint assortment-pricing non-linear optimization models and margin targets |
 
 
 ---
@@ -788,30 +740,19 @@ These projects are not dedicated assortment-planning products, but they provide 
 
 
 
-| Project                                                   | Capabilities                                       |
-
-| --------------------------------------------------------- | -------------------------------------------------- |
-
-| [ERPNext](https://github.com/frappe/erpnext)              | Products, sales, purchasing, inventory, accounting |
-
-| [Odoo Community](https://github.com/odoo/odoo)            | Products, inventory, POS, purchasing               |
-
-| [Apache OFBiz](https://github.com/apache/ofbiz-framework) | Product catalog, orders, inventory                 |
-
-| [OpenBoxes](https://github.com/openboxes/openboxes)       | Inventory and warehouse management                 |
-
-| [Dolibarr](https://github.com/Dolibarr/dolibarr)          | ERP / CRM / inventory                              |
-
-| [Saleor](https://github.com/saleor/saleor)                | Product catalog and commerce                       |
-
-| [Medusa](https://github.com/medusajs/medusa)              | Commerce infrastructure                            |
-
-| [Vendure](https://github.com/vendure-ecommerce/vendure)   | Headless commerce                                  |
-
-| [Apache OFBiz](https://github.com/apache/ofbiz-framework) | Commerce / ERP                                     |
-
-| [Openbravo](https://www.openbravo.com/)                   | Retail ERP                                         |
-
+| Project | Capabilities |
+| :--- | :--- |
+| [Odoo Community](https://github.com/odoo/odoo) [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | Product catalogs, inventory control, POS, multi-warehouse & replenishment workflows |
+| [ERPNext](https://github.com/frappe/erpnext) [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | Merchandise master data, purchasing, sales, inventory valuation & financial planning |
+| [Medusa](https://github.com/medusajs/medusa) [![GitHub stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers) | Modular product catalog APIs, multi-region sales channels, inventory synchronization |
+| [Bagisto](https://github.com/bagisto/bagisto) [![GitHub stars](https://img.shields.io/github/stars/bagisto/bagisto?style=social&color=white)](https://github.com/bagisto/bagisto/stargazers) | Multi-inventory sourcing, product catalog management, localized pricing & point of sale |
+| [Saleor](https://github.com/saleor/saleor) [![GitHub stars](https://img.shields.io/github/stars/saleor/saleor?style=social&color=white)](https://github.com/saleor/saleor/stargazers) | Omnichannel product catalogs, dynamic pricing, multi-warehouse inventory allocation |
+| [Spree Commerce](https://github.com/spree/spree) [![GitHub stars](https://img.shields.io/github/stars/spree/spree?style=social&color=white)](https://github.com/spree/spree/stargazers) | Configurable merchandising catalogs, order lifecycle, stock location routing |
+| [Vendure](https://github.com/vendure-ecommerce/vendure) [![GitHub stars](https://img.shields.io/github/stars/vendure-ecommerce/vendure?style=social&color=white)](https://github.com/vendure-ecommerce/vendure/stargazers) | TypeScript commerce core, product variant hierarchies, multi-channel stock levels |
+| [Dolibarr](https://github.com/Dolibarr/dolibarr) [![GitHub stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white)](https://github.com/Dolibarr/dolibarr/stargazers) | Product categorizations, stock movements, order fulfillment & procurement workflows |
+| [Solidus](https://github.com/solidusio/solidus) [![GitHub stars](https://img.shields.io/github/stars/solidusio/solidus?style=social&color=white)](https://github.com/solidusio/solidus/stargazers) | Flexible inventory tracking, pricing calculation engines & promotion management |
+| [Apache OFBiz](https://github.com/apache/ofbiz-framework) [![GitHub stars](https://img.shields.io/github/stars/apache/ofbiz-framework?style=social&color=white)](https://github.com/apache/ofbiz-framework/stargazers) | Enterprise product information, order fulfillment & advanced supply-chain planning |
+| [OpenBoxes](https://github.com/openboxes/openboxes) [![GitHub stars](https://img.shields.io/github/stars/openboxes/openboxes?style=social&color=white)](https://github.com/openboxes/openboxes/stargazers) | Supply-chain inventory tracking, stock movements, bin locations & warehouse replenishment |
 
 
 ---
@@ -826,30 +767,19 @@ Assortment planning requires a large analytics layer.
 
 
 
-| Project                                               | Role                   |
-
-| ----------------------------------------------------- | ---------------------- |
-
-| [Apache Superset](https://github.com/apache/superset) | BI / dashboards        |
-
-| [Metabase](https://github.com/metabase/metabase)      | BI / analytics         |
-
-| [Evidence](https://github.com/evidence-dev/evidence)  | Data applications      |
-
-| [Grafana](https://github.com/grafana/grafana)         | Monitoring / analytics |
-
-| [DuckDB](https://github.com/duckdb/duckdb)            | Analytical database    |
-
-| [Polars](https://github.com/pola-rs/polars)           | Data processing        |
-
-| [Pandas](https://github.com/pandas-dev/pandas)        | Data analysis          |
-
-| [Apache Spark](https://github.com/apache/spark)       | Large-scale analytics  |
-
-| [dbt Core](https://github.com/dbt-labs/dbt-core)      | Data transformation    |
-
-| [Apache Airflow](https://github.com/apache/airflow)   | Data orchestration     |
-
+| Project | Role |
+| :--- | :--- |
+| [Grafana](https://github.com/grafana/grafana) [![GitHub stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers) | Real-time operational dashboards for store sales, out-of-stock monitoring & inventory velocity |
+| [Apache Superset](https://github.com/apache/superset) [![GitHub stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers) | Enterprise BI, category performance exploration, margin analytics & merchandise KPI dashboards |
+| [Pandas](https://github.com/pandas-dev/pandas) [![GitHub stars](https://img.shields.io/github/stars/pandas-dev/pandas?style=social&color=white)](https://github.com/pandas-dev/pandas/stargazers) | Core tabular data processing, category hierarchy aggregations and sales time-series transformation |
+| [Metabase](https://github.com/metabase/metabase) [![GitHub stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers) | Self-service analytics and intuitive visual querying for retail merchants and planning teams |
+| [Apache Airflow](https://github.com/apache/airflow) [![GitHub stars](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers) | Data orchestration for daily demand forecasting pipelines, inventory ETL and model inference jobs |
+| [Apache Spark](https://github.com/apache/spark) [![GitHub stars](https://img.shields.io/github/stars/apache/spark?style=social&color=white)](https://github.com/apache/spark/stargazers) | Distributed data processing for massive multi-store transactional logs and POS receipt datasets |
+| [DuckDB](https://github.com/duckdb/duckdb) [![GitHub stars](https://img.shields.io/github/stars/duckdb/duckdb?style=social&color=white)](https://github.com/duckdb/duckdb/stargazers) | High-speed in-process analytical SQL database for instant querying of parquet retail datasets |
+| [Polars](https://github.com/pola-rs/polars) [![GitHub stars](https://img.shields.io/github/stars/pola-rs/polars?style=social&color=white)](https://github.com/pola-rs/polars/stargazers) | Lightning-fast multithreaded DataFrame library for processing millions of store-SKU combinations |
+| [Cube](https://github.com/cube-js/cube) [![GitHub stars](https://img.shields.io/github/stars/cube-js/cube?style=social&color=white)](https://github.com/cube-js/cube/stargazers) | Universal semantic layer providing standardized retail metrics (GMV, sell-through, turns, GMROI) |
+| [dbt Core](https://github.com/dbt-labs/dbt-core) [![GitHub stars](https://img.shields.io/github/stars/dbt-labs/dbt-core?style=social&color=white)](https://github.com/dbt-labs/dbt-core/stargazers) | Data transformation framework for structuring retail dimension models, sales data marts and fact tables |
+| [Evidence](https://github.com/evidence-dev/evidence) [![GitHub stars](https://img.shields.io/github/stars/evidence-dev/evidence?style=social&color=white)](https://github.com/evidence-dev/evidence/stargazers) | Code-driven markdown reports and interactive data applications for merchandise planning presentations |
 
 
 ---
@@ -912,22 +842,14 @@ Simulation is useful for testing assortment decisions before deploying them.
 
 
 
-| Project                                              | Role                        |
-
-| ---------------------------------------------------- | --------------------------- |
-
-| [SimPy](https://github.com/simpx/simpy)              | Discrete-event simulation   |
-
-| [NumPy](https://github.com/numpy/numpy)              | Numerical simulation        |
-
-| [SciPy](https://github.com/scipy/scipy)              | Statistics / optimization   |
-
-| [Stockpyl](https://github.com/LarrySnyder/stockpyl)  | Inventory models            |
-
-| [PyMC](https://github.com/pymc-devs/pymc)            | Probabilistic simulation    |
-
-| [RetailOps](https://github.com/MarieGutiz/RetailOps) | Retail inventory simulation |
-
+| Project | Role |
+| :--- | :--- |
+| [NumPy](https://github.com/numpy/numpy) [![GitHub stars](https://img.shields.io/github/stars/numpy/numpy?style=social&color=white)](https://github.com/numpy/numpy/stargazers) | Vectorized Monte Carlo simulations of stochastic customer demand and lead time variations |
+| [SciPy](https://github.com/scipy/scipy) [![GitHub stars](https://img.shields.io/github/stars/scipy/scipy?style=social&color=white)](https://github.com/scipy/scipy/stargazers) | Statistical distributions, probability modeling, curve fitting and numerical optimization algorithms |
+| [PyMC](https://github.com/pymc-devs/pymc) [![GitHub stars](https://img.shields.io/github/stars/pymc-devs/pymc?style=social&color=white)](https://github.com/pymc-devs/pymc/stargazers) | Bayesian posterior simulation of demand distributions, stockout uncertainty and supply risks |
+| [Pyro](https://github.com/pyro-ppl/pyro) [![GitHub stars](https://img.shields.io/github/stars/pyro-ppl/pyro?style=social&color=white)](https://github.com/pyro-ppl/pyro/stargazers) | Deep probabilistic simulation and stochastic variational inference for complex retail networks |
+| [Stockpyl](https://github.com/LarrySnyder/stockpyl) [![GitHub stars](https://img.shields.io/github/stars/LarrySnyder/stockpyl?style=social&color=white)](https://github.com/LarrySnyder/stockpyl/stargazers) | Exact and heuristic simulation of multi-echelon inventory policies, reorder triggers and safety stock |
+| [RetailOps](https://github.com/MarieGutiz/RetailOps) [![GitHub stars](https://img.shields.io/github/stars/MarieGutiz/RetailOps?style=social&color=white)](https://github.com/MarieGutiz/RetailOps/stargazers) | Retail inventory and replenishment simulation modeling store-level stockouts and delivery delays |
 
 
 ---
@@ -978,30 +900,22 @@ Recommended tools:
 
 
 
-| Tool                     | Best Use                         |
-
-| ------------------------ | -------------------------------- |
-
-| **StatsForecast**        | Fast statistical forecasting     |
-
-| **MLForecast**           | Machine-learning forecasting     |
-
-| **NeuralForecast**       | Deep-learning forecasting        |
-
-| **Darts**                | General forecasting framework    |
-
-| **GluonTS**              | Probabilistic forecasting        |
-
-| **AutoGluon-TimeSeries** | Automated forecasting            |
-
-| **sktime**               | Forecasting experimentation      |
-
-| **PyTorch Forecasting**  | Deep forecasting                 |
-
-| **LightGBM**             | Feature-based demand forecasting |
-
-| **XGBoost**              | Demand prediction                |
-
+| Tool | Best Use |
+| :--- | :--- |
+| [XGBoost](https://github.com/dmlc/xgboost) [![GitHub stars](https://img.shields.io/github/stars/dmlc/xgboost?style=social&color=white)](https://github.com/dmlc/xgboost/stargazers) | Tabular feature-engineered demand forecasting with rich calendar, price & promotional variables |
+| [Prophet](https://github.com/facebook/prophet) [![GitHub stars](https://img.shields.io/github/stars/facebook/prophet?style=social&color=white)](https://github.com/facebook/prophet/stargazers) | Interpretable business forecasting with holiday calendars, seasonal cycles & manual trend breakpoints |
+| [LightGBM](https://github.com/microsoft/LightGBM) [![GitHub stars](https://img.shields.io/github/stars/microsoft/LightGBM?style=social&color=white)](https://github.com/microsoft/LightGBM/stargazers) | High-throughput tree boosting across millions of historical retail transaction time-series |
+| [Time-Series-Library (TSlib)](https://github.com/thuml/Time-Series-Library) [![GitHub stars](https://img.shields.io/github/stars/thuml/Time-Series-Library?style=social&color=white)](https://github.com/thuml/Time-Series-Library/stargazers) | State-of-the-art deep forecasting architectures (PatchTST, TimesNet, DLinear, Crossformer) |
+| [AutoGluon-TimeSeries](https://github.com/autogluon/autogluon) [![GitHub stars](https://img.shields.io/github/stars/autogluon/autogluon?style=social&color=white)](https://github.com/autogluon/autogluon/stargazers) | Automated AutoML pipeline producing ensembled point & probabilistic forecasts with zero manual tuning |
+| [sktime](https://github.com/sktime/sktime) [![GitHub stars](https://img.shields.io/github/stars/sktime/sktime?style=social&color=white)](https://github.com/sktime/sktime/stargazers) | Comprehensive algorithmic experimentation, reduction strategies, backtesting & pipeline composability |
+| [Darts](https://github.com/unit8co/darts) [![GitHub stars](https://img.shields.io/github/stars/unit8co/darts?style=social&color=white)](https://github.com/unit8co/darts/stargazers) | Unified time-series experimentation across statistical, machine learning and neural architectures |
+| [CatBoost](https://github.com/catboost/catboost) [![GitHub stars](https://img.shields.io/github/stars/catboost/catboost?style=social&color=white)](https://github.com/catboost/catboost/stargazers) | High accuracy on categorical product hierarchies, department taxonomies and store attributes |
+| [Chronos Forecasting](https://github.com/amazon-science/chronos-forecasting) [![GitHub stars](https://img.shields.io/github/stars/amazon-science/chronos-forecasting?style=social&color=white)](https://github.com/amazon-science/chronos-forecasting/stargazers) | Zero-shot foundation model forecasting for new product introductions (cold-start forecasting) |
+| [GluonTS](https://github.com/awslabs/gluonts) [![GitHub stars](https://img.shields.io/github/stars/awslabs/gluonts?style=social&color=white)](https://github.com/awslabs/gluonts/stargazers) | Probabilistic demand forecasting generating prediction intervals essential for safety stock sizing |
+| [PyTorch Forecasting](https://github.com/jdb78/pytorch-forecasting) [![GitHub stars](https://img.shields.io/github/stars/jdb78/pytorch-forecasting?style=social&color=white)](https://github.com/jdb78/pytorch-forecasting/stargazers) | Deep neural forecasting with Temporal Fusion Transformers to inspect attention weights and variable importance |
+| [StatsForecast](https://github.com/Nixtla/statsforecast) [![GitHub stars](https://img.shields.io/github/stars/Nixtla/statsforecast?style=social&color=white)](https://github.com/Nixtla/statsforecast/stargazers) | Ultra-fast statistical baselines (AutoARIMA, AutoETS, Croston) scaling to hundreds of thousands of series |
+| [NeuralForecast](https://github.com/Nixtla/neuralforecast) [![GitHub stars](https://img.shields.io/github/stars/Nixtla/neuralforecast?style=social&color=white)](https://github.com/Nixtla/neuralforecast/stargazers) | Fast GPU-accelerated deep neural architectures (NHITS, NBEATSx) with exogenous regressors |
+| [MLForecast](https://github.com/Nixtla/mlforecast) [![GitHub stars](https://img.shields.io/github/stars/Nixtla/mlforecast?style=social&color=white)](https://github.com/Nixtla/mlforecast/stargazers) | Scalable recursive multi-step forecasting with distributed LightGBM / XGBoost over Spark or Dask |
 
 
 ---
@@ -1452,22 +1366,15 @@ Open-source clustering tools can support this layer:
 
 
 
-| Project         | Role                     |
-
-| --------------- | ------------------------ |
-
-| scikit-learn    | Clustering               |
-
-| HDBSCAN         | Density-based clustering |
-
-| XGBoost         | Store/product prediction |
-
-| LightGBM        | Store segmentation       |
-
-| PyMC            | Bayesian segmentation    |
-
-| pandas / Polars | Feature preparation      |
-
+| Project | Role |
+| :--- | :--- |
+| [scikit-learn](https://github.com/scikit-learn/scikit-learn) [![GitHub stars](https://img.shields.io/github/stars/scikit-learn/scikit-learn?style=social&color=white)](https://github.com/scikit-learn/scikit-learn/stargazers) | K-Means, Agglomerative Hierarchical Clustering, PCA, t-SNE & Gaussian Mixture Models |
+| [Pandas](https://github.com/pandas-dev/pandas) [![GitHub stars](https://img.shields.io/github/stars/pandas-dev/pandas?style=social&color=white)](https://github.com/pandas-dev/pandas/stargazers) | Store feature engineering, store-level sales velocity aggregation and demographic indexing |
+| [Polars](https://github.com/pola-rs/polars) [![GitHub stars](https://img.shields.io/github/stars/pola-rs/polars?style=social&color=white)](https://github.com/pola-rs/polars/stargazers) | Ultra-fast feature extraction across hundreds of stores and tens of thousands of product lines |
+| [XGBoost](https://github.com/dmlc/xgboost) [![GitHub stars](https://img.shields.io/github/stars/dmlc/xgboost?style=social&color=white)](https://github.com/dmlc/xgboost/stargazers) | Supervised store performance classification, feature importance ranking and cluster validation |
+| [LightGBM](https://github.com/microsoft/LightGBM) [![GitHub stars](https://img.shields.io/github/stars/microsoft/LightGBM?style=social&color=white)](https://github.com/microsoft/LightGBM/stargazers) | High-speed classification of store customer demographics and localized assortment preference scoring |
+| [PyMC](https://github.com/pymc-devs/pymc) [![GitHub stars](https://img.shields.io/github/stars/pymc-devs/pymc?style=social&color=white)](https://github.com/pymc-devs/pymc/stargazers) | Bayesian clustering and latent-class mixture models capturing probabilistic cluster memberships |
+| [HDBSCAN](https://github.com/scikit-learn-contrib/hdbscan) [![GitHub stars](https://img.shields.io/github/stars/scikit-learn-contrib/hdbscan?style=social&color=white)](https://github.com/scikit-learn-contrib/hdbscan/stargazers) | Density-based spatial and demographic clustering discovering natural store groupings with noise handling |
 
 
 ---
@@ -2906,204 +2813,128 @@ This distinction is important because **OR-Tools or Pyomo is not itself an assor
 
 
 
+
+---
+
+# 🔍 SEO Key Topics & Retail Planning Taxonomy
+
+For enterprise retail merchandisers, data scientists, and supply-chain software architects:
+
+* **Retail Assortment Planning (AP):** Algorithmic selection of SKU width, depth, and presentation minimums for optimal sell-through.
+* **Merchandise Financial Planning (MFP):** Dynamic reconciliation between top-down financial budgets (sales revenue, gross margin %, GMROI, open-to-buy) and bottom-up SKU assortment line plans.
+* **Discrete Choice Modeling:** Customer decision modeling via Multinomial Logit (MNL), Nested Logit, and Mixed Logit algorithms estimating substitution and cross-elasticity.
+* **Cannibalization & Halo Effects:** Quantifying sales deflection when introducing similar products or running promotional campaigns on complementary items.
+* **Demand Forecasting & Foundation Models:** Modern time-series forecasting combining tree-based boosting (LightGBM, XGBoost, CatBoost) and foundation deep learning models (Chronos, PatchTST, TFT).
+* **Multi-Echelon Inventory Optimization:** End-to-end safety stock sizing, Economic Order Quantity (EOQ), reorder triggers, and service-level optimization across dark stores, distribution centers, and stores.
+* **Store Clustering & Localization:** Spatial, demographic, and behavioral store clustering (K-Means, HDBSCAN, GMM) grouping stores for localized assortment grading.
+* **Open-Source Composable Retail Architecture:** Integrating high-performance analytics engines (Polars, DuckDB, Superset) with mathematical solvers (OR-Tools, Pyomo, HiGHS) and ERP platforms (ERPNext, Odoo, OpenBoxes).
+
+---
+
 # 🤝 Contributing
-
-
 
 Contributions are welcome!
 
-
-
 Please consider adding:
 
-
-
 * Open-source assortment optimizers
-
 * Retail planning platforms
-
 * Choice-model implementations
-
 * Demand forecasting frameworks
-
 * Inventory optimization libraries
-
 * Pricing optimization software
-
 * Markdown optimization
-
 * Allocation algorithms
-
 * Store clustering tools
-
 * Retail simulation projects
-
 * Retail ERP systems
-
 * Open-source merchandising platforms
-
 * Retail analytics platforms
-
 * Optimization solvers
-
 * Academic assortment-planning implementations
-
 * Quick-commerce optimization projects
-
 * Grocery assortment algorithms
-
 * Fashion assortment algorithms
-
 * E-commerce assortment optimization
-
-
 
 When adding a project, clearly distinguish between:
 
-
-
 * **Dedicated assortment-planning software**
-
 * **Open-source optimization framework**
-
 * **Research implementation**
-
 * **Forecasting library**
-
 * **Inventory optimization library**
-
 * **Retail ERP**
-
 * **Analytics platform**
-
 * **Open-core**
-
 * **Source-available**
-
 * **Commercial software**
-
-
 
 Do not label a generic optimization library as a complete assortment-planning platform.
 
-
-
 ---
-
-
 
 # ⚠️ Disclaimer
 
-
-
 This repository is an independent technical curation and is **not affiliated with or endorsed by any company or project listed here**.
-
-
 
 Retail assortment planning is highly domain-specific.
 
-
-
 Actual production systems may need to account for:
 
-
-
 * Demand uncertainty
-
 * Customer choice
-
 * Cannibalization
-
 * Product substitution
-
 * Complementarity
-
 * Store localization
-
 * Shelf space
-
 * Supplier constraints
-
 * Lead times
-
 * Minimum order quantities
-
 * Inventory availability
-
 * Service levels
-
 * Product lifecycle
-
 * New-product uncertainty
-
 * Promotions
-
 * Pricing
-
 * Markdown
-
 * Seasonality
-
 * Weather
-
 * Holidays
-
 * Competitor actions
-
 * Financial targets
-
-
 
 An open-source stack can provide much of the **technical infrastructure**, but building a production-grade alternative to an enterprise retail planning platform requires substantial domain modeling, data engineering, optimization engineering and planner workflow development.
 
-
-
 The repositories listed here also have different licenses. Always verify the current license and commercial-use terms before deploying them in a commercial environment.
-
-
 
 ---
 
+##  Star History
 
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Retail-Assortment-Planning&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Retail-Assortment-Planning&type=date&legend=top-left)
+
+---
 
 ## ⭐ Star This Repository
 
-
-
 If you are interested in:
 
-
-
 * Retail Assortment Planning
-
 * Merchandise Planning
-
 * Retail AI
-
 * Demand Forecasting
-
 * Inventory Optimization
-
 * Pricing Optimization
-
 * Revenue Management
-
 * Supply Chain Optimization
-
 * Retail Analytics
-
 * Mathematical Optimization
-
 * Open-Source Retail Software
-
-
 
 consider giving this repository a ⭐ **Star** and contributing new projects.
 
-
-
 ---
-
-
 
 **Last updated: September 2026**
