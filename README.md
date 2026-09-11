@@ -192,39 +192,21 @@ Commercial retail planning platforms combine assortment, merchandise, demand, in
 
 
 
-| Platform                                                          | Company              | Primary Focus              | Key Capabilities                                               |
-
-| ----------------------------------------------------------------- | -------------------- | -------------------------- | -------------------------------------------------------------- |
-
-| [o9 Solutions](https://o9solutions.com/)                          | o9 Solutions         | Integrated retail planning | Assortment, merchandise, demand, supply and financial planning |
-
-| [RELEX Solutions](https://www.relexsolutions.com/)                | RELEX Solutions      | Retail optimization        | Assortment, demand, replenishment, allocation and pricing      |
-
-| [Blue Yonder](https://blueyonder.com/)                            | Blue Yonder          | Retail planning            | Assortment, merchandise, demand, allocation and supply chain   |
-
-| [Oracle Retail](https://www.oracle.com/retail/)                   | Oracle               | Enterprise retail          | Assortment, merchandise planning, allocation and inventory     |
-
-| [JustEnough](https://www.justenough.com/)                         | JustEnough           | Merchandise planning       | Assortment, inventory and merchandise optimization             |
-
-| [Aptos](https://www.aptos.com/)                                   | Aptos                | Retail planning            | Merchandise, assortment, allocation and planning               |
-
-| [Anaplan](https://www.anaplan.com/solutions/assortment-planning/) | Anaplan              | Connected planning         | Assortment, financial, merchandise and scenario planning       |
-
-| [Invent Analytics](https://inventanalytics.com/)                  | Invent Analytics     | Retail optimization        | Inventory, assortment, pricing and demand optimization         |
-
-| [Board](https://www.board.com/)                                   | Board                | Enterprise planning        | Retail planning, forecasting, analytics and scenario modeling  |
-
-| [ToolsGroup](https://www.toolsgroup.com/)                         | ToolsGroup           | Supply-chain optimization  | Demand forecasting, inventory and assortment optimization      |
-
-| [SAP](https://www.sap.com/industries/retail.html)                 | SAP                  | Retail planning            | Merchandise planning, demand, inventory and supply chain       |
-
-| [Manhattan Associates](https://www.manh.com/)                     | Manhattan Associates | Supply-chain / retail      | Allocation, inventory, planning and fulfillment                |
-
-| [RELEX](https://www.relexsolutions.com/)                          | RELEX                | Retail optimization        | AI forecasting, assortment, pricing and replenishment          |
-
-| [Nextail](https://nextail.co/)                                    | Nextail              | Retail merchandising       | Assortment, allocation, pricing and merchandising optimization |
-
-| [Aptos Planning](https://www.aptos.com/)                          | Aptos                | Merchandise planning       | Assortment, merchandise financial planning and allocation      |
+| Platform | Company | Primary Focus | Key Capabilities | Starting Pricing | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| [o9 Solutions](https://o9solutions.com/) | o9 Solutions | Integrated retail planning | Assortment, merchandise, demand, supply and financial planning | Starting at ~$150,000/year (enterprise subscription tier) | No free tier; 30-day proof-of-concept / guided pilot sandbox upon qualification |
+| [RELEX Solutions](https://www.relexsolutions.com/) | RELEX Solutions | Retail optimization | Assortment, demand, replenishment, allocation and pricing | Starting at ~€3,000/year (base single-module starter tier; core multi-store deployments scale from ~€50,000/year) | No free tier; 30-day custom pilot simulation upon qualification |
+| [Blue Yonder](https://blueyonder.com/) | Blue Yonder | Retail planning | Assortment, merchandise, demand, allocation and supply chain | Starting at ~$100,000/year (entry single-module SaaS tier) | No free tier; 30-day guided evaluation sandbox upon enterprise sales engagement |
+| [Oracle Retail](https://www.oracle.com/retail/) | Oracle | Enterprise retail | Assortment, merchandise planning, allocation and inventory | Starting at ~$150/user/month (Hosted Named User license minimums; core modules scale from ~$30,000/year) | 30-day free trial via Oracle Cloud Infrastructure ($300 free cloud credits) + Oracle Always Free tier (2 AMD Compute VMs, 200 GB block storage, Autonomous Database) |
+| [JustEnough](https://www.justenough.com/) | ToolsGroup / JustEnough | Merchandise planning | Assortment, inventory and merchandise optimization | Starting at ~$4,000/month (~$48,000/year entry retail planning tier) | No free tier; 14-day interactive guided evaluation sandbox upon sales demo |
+| [Aptos](https://www.aptos.com/) | Aptos | Retail planning | Merchandise, assortment, allocation and planning | Starting at ~$250/store/month (~$3,000/store/year minimum commitment) | No free tier; 30-day structured proof-of-concept pilot with demo data upon qualification |
+| [Anaplan](https://www.anaplan.com/solutions/assortment-planning/) | Anaplan | Connected planning | Assortment, financial, merchandise and scenario planning | Starting at ~$30,000/year (~$2,500/month entry Basic/Standard tier) | No free tier; 14-day to 30-day guided sandbox environment during proof-of-concept evaluation |
+| [Invent Analytics](https://inventanalytics.com/) | Invent Analytics | Retail optimization | Inventory, assortment, pricing and demand optimization | Starting at ~$5,000/month (~$60,000/year entry AI inventory & assortment tier) | No free tier; 30-day pre-go-live algorithmic simulation & financial ROI benchmark test |
+| [Board](https://www.board.com/) | Board International | Enterprise planning | Retail planning, forecasting, analytics and scenario modeling | Starting at ~$1,500/user/year (~$125/user/month; entry license deployments start at ~$25,000/year) | No free tier; 14-day trial / sandbox environment upon sales qualification |
+| [ToolsGroup](https://www.toolsgroup.com/) | ToolsGroup | Supply-chain optimization | Demand forecasting, inventory and assortment optimization | Starting at ~$3,500/month (~$42,000/year entry tier via "Pay-as-You-Grow" plan) | No free tier; 14-day guided proof-of-concept trial upon vendor qualification |
+| [SAP](https://www.sap.com/industries/retail.html) | SAP | Retail planning | Merchandise planning, demand, inventory and supply chain | Starting at ~$180/user/month (SAP S/4HANA Cloud Public Edition; minimum 15 users = ~$32,400/year) | 30-day SAP S/4HANA Cloud Public Edition free trial with predefined business scenarios & test data; SAP BTP Free Tier (lifetime free tier for select cloud platform developer services) |
+| [Manhattan Associates](https://www.manh.com/) | Manhattan Associates | Supply-chain / retail | Allocation, inventory, planning and fulfillment | Starting at ~$15,000/month (~$180,000/year entry Manhattan Active Omni/Planning tier) | No free tier; 30-day guided prototype / proof-of-concept sandbox upon qualification |
+| [Nextail](https://nextail.co/) | Nextail | Retail merchandising | Assortment, allocation, pricing and merchandising optimization | Starting at ~€60,000/year (~€5,000/month entry tier for mid-market fashion networks) | No free tier; 30-day diagnostic pilot simulation using historical retailer data |
 
 
 
