@@ -190,6 +190,10 @@ A practical open-source assortment-planning stack can look like:
 
 Commercial retail planning platforms combine assortment, merchandise, demand, inventory and financial planning into integrated enterprise applications.
 
+> 📊 **Sector Market Size & Structure:** The dedicated retail assortment and merchandise planning software market is estimated at **~$2.3B to $3.1B** globally (expanding at ~9%–15% CAGR within the broader ~$25B+ retail enterprise planning space). The sector is **moderately fragmented** rather than a winner-take-all monopoly, featuring legacy multi-suite ERP behemoths (Oracle, SAP, Manhattan Associates) competing alongside specialized high-growth AI-native planning engines (o9 Solutions, RELEX, Board, Invent Analytics).
+
+
+
 
 
 | Platform | Company | Company Size (Valuation / Revenue) | Primary Focus | Key Capabilities | Starting Pricing | Free Tier / Trial Limits |
